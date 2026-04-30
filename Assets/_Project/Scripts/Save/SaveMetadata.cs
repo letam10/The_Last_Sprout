@@ -9,7 +9,9 @@ namespace TheLastSprout.Save
         public string saveVersion;
         public long timestampUtc;
         public double playtimeSeconds;
+        public int inGameDay;
         public string currentRegionId;
         public string checksum;
+        public string thumbnailPath;
     }
 }
